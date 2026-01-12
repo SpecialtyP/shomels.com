@@ -27,7 +27,7 @@ const clientSystems = [
   { name: "NanoCRM", url: "https://crm.shomels.com", icon: Target, color: "text-accent-cyan", description: "Leads, pedidos y analytics" },
   { name: "LlamadIA", url: "https://llamadia.shomels.com", icon: MessageSquare, color: "text-accent-green", description: "Agentes WhatsApp con IA" },
   { name: "Logistics", url: "https://logistics.shomels.com", icon: Truck, color: "text-accent-amber", description: "Tracking y entregas COD" },
-  { name: "AssetsOrg", url: "https://assetsorg-frontend-749189194942.us-central1.run.app", icon: ImageIcon, color: "text-accent-purple", description: "DAM con IA generativa" },
+  { name: "AssetsOrg", url: "https://assetsorg.shomels.com", icon: ImageIcon, color: "text-accent-purple", description: "DAM con IA generativa" },
   { name: "EdificioApp", url: "https://edificioapp.shomels.com", icon: Building, color: "text-accent-rose", description: "Gestión de edificios" },
 ];
 

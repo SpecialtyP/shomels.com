@@ -251,7 +251,7 @@ export const systems: System[] = [
     longDescription: "Fotos de productos en 15 carpetas distintas. Nadie sabe cuál es la versión final. Y necesitas 20 variantes para la campaña de mañana. AssetsOrg es tu biblioteca central de activos con superpoderes de IA: genera variantes de color automáticas, crea mockups, escribe el copy del anuncio, y te dice qué imagen va a convertir mejor.",
     icon: "Image",
     color: "purple",
-    url: "https://assetsorg-frontend-749189194942.us-central1.run.app",
+    url: "https://assetsorg.shomels.com",
     features: [
       { icon: "Search", title: "Búsqueda visual", description: "Encuentra 'esa foto del producto azul' sin recordar el nombre." },
       { icon: "Palette", title: "Variantes con IA", description: "Una foto, 10 colores diferentes en 1 click." },
