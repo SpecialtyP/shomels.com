@@ -238,7 +238,7 @@ export default function Home() {
             <div className="absolute left-8 top-0 bottom-0 w-px bg-gradient-to-b from-accent-cyan via-accent-green to-accent-blue hidden md:block" />
 
             <div className="space-y-8">
-              {integrationFlowSteps.map((step, index) => {
+              {integrationFlowSteps.map((step) => {
                 const system = systems.find((s) => s.id === step.system);
                 const colors = system ? colorClasses[system.color] : colorClasses.green;
 
