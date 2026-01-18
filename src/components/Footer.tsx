@@ -133,7 +133,7 @@ export function Footer() {
         <div className="mt-12 border-t border-white/10 pt-8">
           <div className="flex flex-col items-center justify-between gap-4 md:flex-row">
             <p className="text-sm text-muted-foreground">
-              &copy; {new Date().getFullYear()} Shomels. Todos los derechos reservados.
+              &copy; {new Date().getFullYear()} Corporacion Shomels SAC - RUC 20547900074. Todos los derechos reservados.
             </p>
             <div className="flex items-center gap-2">
               <span className="text-sm text-muted-foreground">Infraestructura:</span>

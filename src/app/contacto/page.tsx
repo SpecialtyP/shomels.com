@@ -20,24 +20,24 @@ const contactMethods = [
     icon: MessageSquare,
     title: "WhatsApp",
     description: "Respuesta en menos de 2 horas",
-    value: "+51 999 888 777",
-    href: "https://wa.me/51999888777",
+    value: "+51 927 900 819",
+    href: "https://wa.me/51927900819",
     color: "green",
   },
   {
     icon: Mail,
     title: "Email",
     description: "Para consultas detalladas",
-    value: "hola@shomels.com",
-    href: "mailto:hola@shomels.com",
+    value: "ventas@shomels.com",
+    href: "mailto:ventas@shomels.com",
     color: "blue",
   },
   {
     icon: Phone,
     title: "Llamada",
     description: "Lunes a Viernes, 9am-6pm",
-    value: "+51 (01) 555-0123",
-    href: "tel:+5101555123",
+    value: "+51 927 900 819",
+    href: "tel:+51927900819",
     color: "cyan",
   },
 ];
@@ -404,7 +404,7 @@ export default function ContactPage() {
                   por WhatsApp para una respuesta inmediata.
                 </p>
                 <a
-                  href="https://wa.me/51999888777"
+                  href="https://wa.me/51927900819"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 text-accent-green text-sm font-medium hover:underline"
