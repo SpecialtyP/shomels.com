@@ -16,8 +16,9 @@ const footerLinks = {
     { name: "Contacto", href: "/contacto" },
   ],
   legal: [
-    { name: "Términos de Servicio", href: "#" },
-    { name: "Política de Privacidad", href: "#" },
+    { name: "Términos de Servicio", href: "/terminos" },
+    { name: "Política de Privacidad", href: "/privacidad" },
+    { name: "Eliminación de Datos", href: "/eliminacion-datos" },
     { name: "SLA Enterprise", href: "#" },
   ],
 };
